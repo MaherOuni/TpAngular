@@ -1,0 +1,12 @@
+.footer{
+  position: fixed;
+  bottom: 0;
+  width: 100%;
+  height: max-content;
+  background:   #212121 ;
+  color:whitesmoke;
+}
+.copy{
+  margin-top: 10px;
+  text-align: center;
+}
